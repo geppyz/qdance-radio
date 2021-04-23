@@ -19,15 +19,13 @@ go run .
 ```
 
 ## Build MacOS App
-Run 
 ```BASH
 ./build-mac-app.sh
 ```
-A built 'Q-Dance Radio.app' will be in the `build/` directory.
+A built 'Q-Dance Radio.app' will be in the `build/macos/` directory.
 
 ## Run MacOS App
-Run 
 ```BASH
-open build/Q-Dance\ Radio.app/
+open build/macos/Q-Dance\ Radio.app/
 ```
 Alternatively you can just double-click on the app icon in the build directory or copy it to your 'Applications' folder.
