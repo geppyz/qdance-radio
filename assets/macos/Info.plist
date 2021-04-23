@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>English</string>
+        <key>CFBundleExecutable</key>
+        <string>qdance-radio</string>
+        <key>CFBundleIconFile</key>
+        <string>qdanceradio_512x512x32.icns</string>
+        <key>CFBundleIdentifier</key>
+        <string>nl.geppyz.qdanceradio</string>
+        <key>CFBundleDisplayName</key>
+        <string>Q-Dance Radio</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>CFBundleName</key>
+        <string>Q-Dance Radio</string>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleShortVersionString</key>
+        <string>0.0.1</string>
+        <key>CFBundleSignature</key>
+        <string>????</string>
+        <key>CFBundleVersion</key>
+        <string>1</string>
+        <key>NSHumanReadableCopyright</key>
+        <string>GeppyZ 2021</string>
+        <key>LSApplicationCategoryType</key>
+        <string>public.app-category.music</string>
+        <key>NSHighResolutionCapable</key>
+        <true/>
+    </dict>
+</plist>
+
