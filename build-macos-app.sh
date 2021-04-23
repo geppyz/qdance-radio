@@ -16,7 +16,7 @@ echo "[$(date)] Copying MacOS App files."
 cp qdance-radio build/macos/qdance-radio/Contents/MacOS/qdance-radio
 cp assets/macos/Info.plist build/macos/qdance-radio/Contents/Info.plist
 cp assets/macos/qdanceradio_512x512x32.icns build/macos/qdance-radio/Contents/Resources/qdanceradio_512x512x32.icns
-echo "[$(date)] Renaming folding to App." 
+echo "[$(date)] Renaming folder to App." 
 mv build/macos/qdance-radio build/macos/Q-Dance\ Radio.app/
 echo "[$(date)] Cleaning-up."
 rm qdance-radio
