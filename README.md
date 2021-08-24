@@ -29,3 +29,9 @@ A built 'Q-Dance Radio.app' will be in the `build/macos/` directory.
 open build/macos/Q-Dance\ Radio.app/
 ```
 Alternatively you can just double-click on the app icon in the build directory or copy it to your 'Applications' folder.
+
+## Build on Debian/Ubuntu
+```BASH
+sudo apt-get install pkg-config build-essential libgtk-3-dev libwebkit2gtk-4.0-dev
+go build .
+```
